@@ -1,0 +1,1 @@
+﻿public class ClientTargetPoint : TargetPoint<Client> { }
